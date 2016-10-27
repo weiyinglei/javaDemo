@@ -1,6 +1,4 @@
-package com.cetiti.stringbuffer;
-
-import java.util.Locale;
+package com.wei.stringbuffer;
 
 /**
  * Created by weiyinglei on 2016-10-20.

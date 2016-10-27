@@ -1,7 +1,7 @@
 /**
  * Created by weiyinglei on 2016-10-19.
  */
-package com.cetiti.log;
+package com.wei.log;
 
 import org.apache.log4j.Logger;
 

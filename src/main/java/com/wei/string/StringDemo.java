@@ -1,4 +1,4 @@
-package com.cetiti.StringDemo;
+package com.wei.string;
 
 /**
  * @author weiyinglei
