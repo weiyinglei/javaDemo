@@ -1,17 +1,17 @@
 package com.wei.string;
 
+import org.junit.Test;
+
 /**
  * @author weiyinglei
  */
-public class StringDemo {
-    public static void main(String[] args) {
-        testString1();
-    }
+public class StringTest {
 
     /**
      * Double Quotes vs. Constructor
      */
-    private static void testString1() {
+    @Test
+    public void testString1() {
         /*
          * if String a = "abcd",then "abcd" will be put into constant poll of method area.
          */
